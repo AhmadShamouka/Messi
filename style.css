@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    color:lightblue;
+    background-color: azure;
+}
+h1{
+    background-color: cadetblue;
+    text-align: center;
+    margin: 50px;
+    font-family: verdana;
+    padding: 50px;
+    
+}
+h3{
+    text-align: center;
+    margin: 50px;
+    font-family: verdana;
+    
+}
+h2{
+    margin-top: 20px;
+    margin-left: 10px;
+    font-family: verdana;
+}
+p{
+    margin-top: 20px;
+    margin-left: 10px;
+    font-family: verdana;   
+}
+.about{
+    background-color: aliceblue;
+}
+table, th, td {
+    border: 1px solid;
+  }
+table{
+    
+    border: 5px solid;
+    margin-left: 40px;
+}
+img{
+    border: 5px solid;
+    width: 200px;
+    height: 200px;
+    margin-left: 40px;
+}
